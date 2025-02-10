@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+     font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(253, 169, 23);
+    color: white;
+}
+
+header a {
+      color: white;
+      text-decoration: none;
+}
+
+h1 {
+    color: orange;
+}
+
+footer {
+    background-color: palevioletred;
+    border: 1px solid brown;
+    
+}
+
+select {
+    padding: 5px;
+    text-align: center;
+}
